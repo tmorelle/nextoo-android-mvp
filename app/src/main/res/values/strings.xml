@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NextooMVP</string>
+
+    <string name="fragment_first_title">First Fragment</string>
+    <string name="fragment_second_title">Second Fragment</string>
+
+    <string name="child_fragment_first_title">First Child Fragment</string>
+    <string name="child_fragment_second_title">Second Child Fragment</string>
+
+    <string name="activity_first_title">First Activity</string>
+    <string name="activity_second_title">Second Activity</string>
+</resources>
